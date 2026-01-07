@@ -1,16 +1,24 @@
-## Hello
+# Hi, I'm Amjko 👋
 
-<!--
-**Amjko2234/Amjko2234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer learning by building projects that interests me.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SENA** *(private)* - An AI chatbot system inspired by Neuro-sama
+- **Ko-Nexus** - A dependency injection container for Python
+
+## What I'm Learning
+
+- Python
+- Machine Learning / AI systems
+- Building maintainable software
+
+## Tools I Use
+
+- Python
+- VSCode + Neovim (LazyVim)
+- Ubuntu on WSL2
+
+---
+
+You may not see much. I'm still figuring things out, one project at a time.
