@@ -6,6 +6,8 @@ I'm a beginner developer learning by building projects that interests me.
 
 - **SENA** *(private)* - An AI chatbot system inspired by Neuro-sama
 - **Ko-Nexus** - A dependency injection container for Python
+- **Ko-Log** *(public soon)* - An asynchronous, queue-based logging system for Python.
+- **Ko-Config** *(public soon)* - An auto-validating, fail-fast JSON configuration manager for Python.
 
 ## What I'm Learning
 
